@@ -1,0 +1,4 @@
+model_name_or_path: meta-llama/Meta-Llama-3-8B-Instruct
+adapter_name_or_path: /root/results/llama3-8b/lora/sft/checkpoint-200/
+template: llama3
+finetuning_type: lora
